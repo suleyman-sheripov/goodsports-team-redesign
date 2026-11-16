@@ -1,0 +1,1 @@
+document.addEventListener('submit',function(e){if(e.target.id==='leadForm'){e.preventDefault();e.stopImmediatePropagation();alert('Это автономный снимок исходного сайта. Заявка не отправлена. Для нового сайта подключите собственный обработчик формы.');}},true);

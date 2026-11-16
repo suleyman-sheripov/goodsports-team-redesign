@@ -1,0 +1,335 @@
+[
+  {
+    "id": "futbolnaia-forma",
+    "name": "Футбольная форма",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/8551ZB11087-907.webp",
+    "priceAdult": 750.0,
+    "priceChild": 750.0,
+    "url": "https://goodsports.ru/futbolnaia-forma/filter?brands=fn,kelme"
+  },
+  {
+    "id": "basketbolnaia-forma",
+    "name": "Баскетбольная форма",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/3591052-600.webp",
+    "priceAdult": 720.0,
+    "priceChild": 723.59,
+    "url": "https://goodsports.ru/basketbolnaia-forma/filter?brands=fn,kelme"
+  },
+  {
+    "id": "voleibolnaia-forma",
+    "name": "Волейбольная форма",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/b547634f469f6b45f0ab91e142cadbbc3e9d6a98.jpg",
+    "priceAdult": 780.0,
+    "priceChild": 780.0,
+    "url": "https://goodsports.ru/voleibolnaia-forma/filter?brands=fn,kelme"
+  },
+  {
+    "id": "gandbolnaia",
+    "name": "Гандбольная форма",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/db94d183d52cba56cc610275bd4377ffdb1e7275.jpg",
+    "priceAdult": 1045.91,
+    "priceChild": 1045.91,
+    "url": "https://goodsports.ru/gandbolnaia/filter?brands=fn,kelme"
+  },
+  {
+    "id": "tennisnaia-forma",
+    "name": "Теннисная форма",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/8451QB1031-600.webp",
+    "priceAdult": 1686.0,
+    "priceChild": 1686.0,
+    "url": "https://goodsports.ru/tennisnaia-forma/filter?brands=fn,kelme"
+  },
+  {
+    "id": "legkoatleticheskaia",
+    "name": "Форма для лёгкой атлетики",
+    "group": "Игровая форма",
+    "image": "/reference-site/img/catalog/5adcfca25ffc2489ca22e390515c4ef27e63b2d0.jpg",
+    "priceAdult": 1098.0,
+    "priceChild": 1098.0,
+    "url": "https://goodsports.ru/legkoatleticheskaia/filter?brands=fn,kelme"
+  },
+  {
+    "id": "sportivnye-kostiumy",
+    "name": "Спортивные костюмы",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/8161TZ1001-416.webp",
+    "priceAdult": 1704.0,
+    "priceChild": 1887.94,
+    "url": "https://goodsports.ru/sportivnye-kostiumy/filter?brands=fn,kelme"
+  },
+  {
+    "id": "pukhoviki",
+    "name": "Пуховики",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/2dcec7000daa34820b9ef1b488f9b7bd61dcd91b.jpg",
+    "priceAdult": 3306.0,
+    "priceChild": 4043.92,
+    "url": "https://goodsports.ru/pukhoviki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "vetrovki",
+    "name": "Ветровки",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/8461WT1130-481.webp",
+    "priceAdult": 1918.35,
+    "priceChild": 1606.5,
+    "url": "https://goodsports.ru/vetrovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "termobele",
+    "name": "Термобельё",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/FN4051001-600.webp",
+    "priceAdult": 558.0,
+    "priceChild": 588.0,
+    "url": "https://goodsports.ru/termobele/filter?brands=fn,kelme"
+  },
+  {
+    "id": "svitshoty",
+    "name": "Свитшоты",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/8451TX1329-481.webp",
+    "priceAdult": 900.0,
+    "priceChild": 1314.0,
+    "url": "https://goodsports.ru/svitshoty/filter?brands=fn,kelme"
+  },
+  {
+    "id": "zhilety",
+    "name": "Жилеты",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/8161MJ1001-416.webp",
+    "priceAdult": 354.0,
+    "priceChild": 354.0,
+    "url": "https://goodsports.ru/zhilety/filter?brands=fn,kelme"
+  },
+  {
+    "id": "shorty",
+    "name": "Шорты",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/3881204-000.webp",
+    "priceAdult": 174.0,
+    "priceChild": 420.0,
+    "url": "https://goodsports.ru/shorty/filter?brands=fn,kelme"
+  },
+  {
+    "id": "futbolki",
+    "name": "Футболки",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/9523TX1184-B00.webp",
+    "priceAdult": 246.0,
+    "priceChild": 215.13,
+    "url": "https://goodsports.ru/futbolki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "getry",
+    "name": "Гетры",
+    "group": "Одежда",
+    "image": "/reference-site/img/catalog/8601WZ5259-481.webp",
+    "priceAdult": 60.0,
+    "priceChild": 192.0,
+    "url": "https://goodsports.ru/getry/filter?brands=fn,kelme"
+  },
+  {
+    "id": "krossovki",
+    "name": "Кроссовки",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/YX80125042-103.webp",
+    "priceAdult": 2399.9,
+    "priceChild": 1199.4,
+    "url": "https://goodsports.ru/krossovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "shipovki",
+    "name": "Шиповки",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/FN5061006-415.webp",
+    "priceAdult": 1685.26,
+    "priceChild": 1619.12,
+    "url": "https://goodsports.ru/shipovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "butsy",
+    "name": "Бутсы",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/9431ZX1239-131.webp",
+    "priceAdult": 1619.12,
+    "priceChild": 1552.99,
+    "url": "https://goodsports.ru/butsy/filter?brands=fn,kelme"
+  },
+  {
+    "id": "futzalki",
+    "name": "Футзалки",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/8521ZX5338-000.webp",
+    "priceAdult": 1751.0,
+    "priceChild": 1587.61,
+    "url": "https://goodsports.ru/futzalki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "basketbolnye-krossovki",
+    "name": "Баскетбольные кроссовки",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/8321LX1136-405.webp",
+    "priceAdult": 2441.25,
+    "priceChild": 2661.75,
+    "url": "https://goodsports.ru/basketbolnye-krossovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "gandbolnye-krossovki",
+    "name": "Гандбольные кроссовки",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/FN5091002-907.webp",
+    "priceAdult": 2173.5,
+    "priceChild": 1905.75,
+    "url": "https://goodsports.ru/gandbolnye-krossovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "legkoatleticheskie-shipovki",
+    "name": "Шиповки для лёгкой атлетики",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/dfc198df8938cef60c5ca5fe852eab4395ce20a2.jpg",
+    "priceAdult": 2192.54,
+    "priceChild": 2192.54,
+    "url": "https://goodsports.ru/legkoatleticheskie-shipovki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "shlepantsy",
+    "name": "Шлёпанцы",
+    "group": "Обувь",
+    "image": "/reference-site/img/catalog/8325LT1127-243.webp",
+    "priceAdult": 660.0,
+    "priceChild": 425.4,
+    "url": "https://goodsports.ru/shlepantsy/filter?brands=fn,kelme"
+  },
+  {
+    "id": "futbolnye-miachi",
+    "name": "Футбольные мячи",
+    "group": "Мячи",
+    "image": "/reference-site/img/catalog/7601QU5216-100.webp",
+    "priceAdult": 1019.4,
+    "priceChild": null,
+    "url": "https://goodsports.ru/futbolnye-miachi/filter?brands=fn,kelme"
+  },
+  {
+    "id": "futzalnye-miachi",
+    "name": "Футзальные мячи",
+    "group": "Мячи",
+    "image": "/reference-site/img/catalog/FN6031004-104.webp",
+    "priceAdult": 1044.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/futzalnye-miachi/filter?brands=fn,kelme"
+  },
+  {
+    "id": "basketbolnye-miachi",
+    "name": "Баскетбольные мячи",
+    "group": "Мячи",
+    "image": "/reference-site/img/catalog/8202QU5001-217.webp",
+    "priceAdult": 360.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/basketbolnye-miachi/filter?brands=fn,kelme"
+  },
+  {
+    "id": "voleibolnye-miachi",
+    "name": "Волейбольные мячи",
+    "group": "Мячи",
+    "image": "/reference-site/img/catalog/9806140-141.webp",
+    "priceAdult": 570.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/voleibolnye-miachi/filter?brands=fn,kelme"
+  },
+  {
+    "id": "miachi-dlia-gandbola",
+    "name": "Мячи для гандбола",
+    "group": "Мячи",
+    "image": "/reference-site/img/catalog/FN6041002-934.webp",
+    "priceAdult": 888.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/miachi-dlia-gandbola/filter?brands=fn,kelme"
+  },
+  {
+    "id": "riukzaki",
+    "name": "Рюкзаки",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/8501BB5089-000.webp",
+    "priceAdult": 1146.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/riukzaki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "sumki",
+    "name": "Сумки",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/K15S959-000.webp",
+    "priceAdult": 102.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/sumki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "vratarskie-perchatki",
+    "name": "Вратарские перчатки",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/8601ST5017-610.webp",
+    "priceAdult": 2796.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/vratarskie-perchatki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "shchitki-futbolnye",
+    "name": "Щитки футбольные",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/8301HJ5005-900.webp",
+    "priceAdult": 444.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/shchitki-futbolnye/filter?brands=fn,kelme"
+  },
+  {
+    "id": "sportivnye-perchatki",
+    "name": "Спортивные перчатки",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/9996571-010.webp",
+    "priceAdult": 354.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/sportivnye-perchatki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "snudy-i-baffy",
+    "name": "Снуды и баффы",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/8161WJ5001-000.webp",
+    "priceAdult": 642.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/snudy-i-baffy/filter?brands=fn,kelme"
+  },
+  {
+    "id": "shapki-sportivnye",
+    "name": "Шапки спортивные",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/8201MZ5012-000.webp",
+    "priceAdult": 360.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/shapki-sportivnye/filter?brands=fn,kelme"
+  },
+  {
+    "id": "beisbolki",
+    "name": "Бейсболки",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/9601MZ5082-000.webp",
+    "priceAdult": 462.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/beisbolki/filter?brands=fn,kelme"
+  },
+  {
+    "id": "bandazhi-i-nakolenniki",
+    "name": "Бандажи и наколенники",
+    "group": "Аксессуары",
+    "image": "/reference-site/img/catalog/9501HJ5035-000.webp",
+    "priceAdult": 294.0,
+    "priceChild": null,
+    "url": "https://goodsports.ru/bandazhi-i-nakolenniki/filter?brands=fn,kelme"
+  }
+]

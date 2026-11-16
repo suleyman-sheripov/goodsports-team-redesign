@@ -1,0 +1,30 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependencies and generated outputs
+node_modules/
+dist/
+build/
+.next/
+.vite/
+coverage/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+
+# Local harness and temporary design state
+.codex/
+.openai/
+.impeccable/
+.DS_Store
+Thumbs.db
+*.log
+
+# Preserve only intentional source assets, not future working archives
+*.zip
+*.7z
+*.rar

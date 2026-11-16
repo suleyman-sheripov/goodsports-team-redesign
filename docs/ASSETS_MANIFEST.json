@@ -1,0 +1,422 @@
+[
+  {
+    "path": "reference-site/css/style.css",
+    "bytes": 41502,
+    "sha256": "d15133c62ce56ea3237daf3ed297e21aa7576d3fbb06557e26f78d77be7497c1",
+    "source": "https://team.goodsports.ru/css/style.css"
+  },
+  {
+    "path": "reference-site/docs/fn-trademark-certificate.pdf",
+    "bytes": 837621,
+    "sha256": "e5b31f875f9a32bb40d93aac07303ddcdf9d4643aed82412a5492aace4c07a1d",
+    "source": "https://team.goodsports.ru/docs/fn-trademark-certificate.pdf"
+  },
+  {
+    "path": "reference-site/docs/kelme-permission-letter.pdf",
+    "bytes": 92081,
+    "sha256": "82987a20cf4735feb7b5c9f236f7c4f1298e246014e53ae7948f52ca9d22c105",
+    "source": "https://team.goodsports.ru/docs/kelme-permission-letter.pdf"
+  },
+  {
+    "path": "reference-site/img/brand-fn.png",
+    "bytes": 9333,
+    "sha256": "f4462bd81d8bf3f06cc19370a89a410c336bff4835c1d5020da1e3d13a278575",
+    "source": "https://team.goodsports.ru/img/brand-fn.png"
+  },
+  {
+    "path": "reference-site/img/brand-kelme.png",
+    "bytes": 20696,
+    "sha256": "872bf6ffe461f50bd3c146f112eb10908a82cf12c37313932b795d3f81a90ae9",
+    "source": "https://team.goodsports.ru/img/brand-kelme.png"
+  },
+  {
+    "path": "reference-site/img/catalog/2dcec7000daa34820b9ef1b488f9b7bd61dcd91b.jpg",
+    "bytes": 101399,
+    "sha256": "18a3c05adc49e1ff2e73fbe62a2073a0ca7f70efe03f92d828169572d8d3d37c",
+    "source": "https://team.goodsports.ru/img/catalog/2dcec7000daa34820b9ef1b488f9b7bd61dcd91b.jpg"
+  },
+  {
+    "path": "reference-site/img/catalog/3591052-600.webp",
+    "bytes": 30062,
+    "sha256": "d14d467e2bb42bbefb25db6abe96ba9a6bb848d637a3bec8317b591ca8ce0b4a",
+    "source": "https://team.goodsports.ru/img/catalog/3591052-600.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/3881204-000.webp",
+    "bytes": 7550,
+    "sha256": "2e3a47350e44b175a255f7ff5c3c14af624a6e5087de1d4e0fd9d155fc995461",
+    "source": "https://team.goodsports.ru/img/catalog/3881204-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/5adcfca25ffc2489ca22e390515c4ef27e63b2d0.jpg",
+    "bytes": 98220,
+    "sha256": "3e319973a0b38595560ecf82261f8935fe491e606c8b1a2e48d7b089c3ccaf28",
+    "source": "https://team.goodsports.ru/img/catalog/5adcfca25ffc2489ca22e390515c4ef27e63b2d0.jpg"
+  },
+  {
+    "path": "reference-site/img/catalog/7601QU5216-100.webp",
+    "bytes": 36982,
+    "sha256": "36cab1eefe5b9463a99d976877ef466a0cc0bf06e08e67131d484c5b1f6aa924",
+    "source": "https://team.goodsports.ru/img/catalog/7601QU5216-100.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8161MJ1001-416.webp",
+    "bytes": 13968,
+    "sha256": "825201c2c1fc6ddc5d3472d714865673fffbd160f33b51b9383a788f1421ba6c",
+    "source": "https://team.goodsports.ru/img/catalog/8161MJ1001-416.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8161TZ1001-416.webp",
+    "bytes": 16400,
+    "sha256": "14cf7202c6a5cc57b7b843d40de705d6b844dcba834889b342c5d4c7a14b9599",
+    "source": "https://team.goodsports.ru/img/catalog/8161TZ1001-416.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8161WJ5001-000.webp",
+    "bytes": 92388,
+    "sha256": "c08eea02681a115a91b700e24d90c10c871f4f500e69ae301f2afa05a6a9416b",
+    "source": "https://team.goodsports.ru/img/catalog/8161WJ5001-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8201MZ5012-000.webp",
+    "bytes": 50210,
+    "sha256": "985115825c7f98beba6926104d0812cbba00bb05c469fea61825957f78895fb2",
+    "source": "https://team.goodsports.ru/img/catalog/8201MZ5012-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8202QU5001-217.webp",
+    "bytes": 120180,
+    "sha256": "f9a907ca2b5e503c6b83a1eff6ed7b08fa13a6523237956a4f29d7dae1daa9c3",
+    "source": "https://team.goodsports.ru/img/catalog/8202QU5001-217.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8301HJ5005-900.webp",
+    "bytes": 59058,
+    "sha256": "5e65f5539c519aad19e1e14f83de2b8d6591378880a8912dc526fc87d1f27231",
+    "source": "https://team.goodsports.ru/img/catalog/8301HJ5005-900.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8321LX1136-405.webp",
+    "bytes": 19954,
+    "sha256": "3ef1098ab414eee0475bf2d1088d8a3e290b98dc33da3e1f22134bca1b4d5f62",
+    "source": "https://team.goodsports.ru/img/catalog/8321LX1136-405.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8325LT1127-243.webp",
+    "bytes": 14952,
+    "sha256": "ec5c4c9875601cd6f6390034d4268cbf26e6c96f4db7a912db0434f8fd970004",
+    "source": "https://team.goodsports.ru/img/catalog/8325LT1127-243.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8451QB1031-600.webp",
+    "bytes": 32480,
+    "sha256": "0ba6475a0750da91e4170fcca137e791a07b9f95521056257f6aae2e0d8df9d3",
+    "source": "https://team.goodsports.ru/img/catalog/8451QB1031-600.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8451TX1329-481.webp",
+    "bytes": 13712,
+    "sha256": "e10b808c52d1821a7b3156ff305a1fb677aa8ebca8e989b3cae1350f91dcc9ae",
+    "source": "https://team.goodsports.ru/img/catalog/8451TX1329-481.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8461WT1130-481.webp",
+    "bytes": 23826,
+    "sha256": "4316c88351d4b10560e525b67fbf5e54f6c151a44872b7a4d81fc406f847d88b",
+    "source": "https://team.goodsports.ru/img/catalog/8461WT1130-481.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8501BB5089-000.webp",
+    "bytes": 28732,
+    "sha256": "976cd229de99b0e7c8cbaefa35bd1ed7b73b688b60ec746ce81b3f364fb0b3a7",
+    "source": "https://team.goodsports.ru/img/catalog/8501BB5089-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8521ZX5338-000.webp",
+    "bytes": 24134,
+    "sha256": "f3f04e9c7c0d1a8eb268a57ea8b59abacf9b89f994b672feea1fba4bd2861ba6",
+    "source": "https://team.goodsports.ru/img/catalog/8521ZX5338-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8551ZB11087-907.webp",
+    "bytes": 19582,
+    "sha256": "a75f2e8571f2f1a2d8c7e6446216ba3def657d178fdf16ac75180570fb1a475a",
+    "source": "https://team.goodsports.ru/img/catalog/8551ZB11087-907.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8601ST5017-610.webp",
+    "bytes": 44592,
+    "sha256": "329843940fcaddff524c5cd5701afe9eb774d7233190c250fed9d9682c3bc66e",
+    "source": "https://team.goodsports.ru/img/catalog/8601ST5017-610.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/8601WZ5259-481.webp",
+    "bytes": 26008,
+    "sha256": "925b6b2fa17af5c96fca0673a55baeda6a0846025db09cee1bee34ccd93fe927",
+    "source": "https://team.goodsports.ru/img/catalog/8601WZ5259-481.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9431ZX1239-131.webp",
+    "bytes": 23222,
+    "sha256": "04674ed2be90b5fd946a3fe1c2feb9b97d696bfbd6144d212f666eb48b406d8b",
+    "source": "https://team.goodsports.ru/img/catalog/9431ZX1239-131.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9501HJ5035-000.webp",
+    "bytes": 46486,
+    "sha256": "fda6cee8659136b3a50b2df1735d28ff596b498d33c668103183592c22bc1fd3",
+    "source": "https://team.goodsports.ru/img/catalog/9501HJ5035-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9523TX1184-B00.webp",
+    "bytes": 7934,
+    "sha256": "085ff0eb4efbca4598117c3c45ec98e5a1271ef239121f872611ff5d4b31c9df",
+    "source": "https://team.goodsports.ru/img/catalog/9523TX1184-B00.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9601MZ5082-000.webp",
+    "bytes": 8488,
+    "sha256": "e86a6c72b71097d2c3da98d1d2a933032a2f7ec594a3c00c04beb67674e0e26b",
+    "source": "https://team.goodsports.ru/img/catalog/9601MZ5082-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9806140-141.webp",
+    "bytes": 38406,
+    "sha256": "918f357ccf6ecda413a3b951c3684b26d54e487fd8caf720fde4cb9cb542c44e",
+    "source": "https://team.goodsports.ru/img/catalog/9806140-141.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/9996571-010.webp",
+    "bytes": 20334,
+    "sha256": "9739fc3702a4a88dbc9c4d32e77b231d7d77af77818d02e34f694d3585c81894",
+    "source": "https://team.goodsports.ru/img/catalog/9996571-010.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/b547634f469f6b45f0ab91e142cadbbc3e9d6a98.jpg",
+    "bytes": 52171,
+    "sha256": "042c1a3964a37b664ad51b8dbf29385b913aa76dc016fee3f5ca042cd8ff5997",
+    "source": "https://team.goodsports.ru/img/catalog/b547634f469f6b45f0ab91e142cadbbc3e9d6a98.jpg"
+  },
+  {
+    "path": "reference-site/img/catalog/db94d183d52cba56cc610275bd4377ffdb1e7275.jpg",
+    "bytes": 118629,
+    "sha256": "c64e84a46eb3563bae976466bcaa7e0065cdc7a8b71d039202d14044e6a969d4",
+    "source": "https://team.goodsports.ru/img/catalog/db94d183d52cba56cc610275bd4377ffdb1e7275.jpg"
+  },
+  {
+    "path": "reference-site/img/catalog/dfc198df8938cef60c5ca5fe852eab4395ce20a2.jpg",
+    "bytes": 424272,
+    "sha256": "c324a2aeed204c1c6796cb9b7b7ae447166fdd54867b37e42859a54a82768ba7",
+    "source": "https://team.goodsports.ru/img/catalog/dfc198df8938cef60c5ca5fe852eab4395ce20a2.jpg"
+  },
+  {
+    "path": "reference-site/img/catalog/FN4051001-600.webp",
+    "bytes": 31228,
+    "sha256": "d5d89e2f3c91fcc9766001a9c156f8233f56b7474c9fe13a5bacc11fc93028e3",
+    "source": "https://team.goodsports.ru/img/catalog/FN4051001-600.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/FN5061006-415.webp",
+    "bytes": 40262,
+    "sha256": "877e21309fc2d46a2e43f9a1b8993f904dbea70aa6472067739e3ee0f6e72207",
+    "source": "https://team.goodsports.ru/img/catalog/FN5061006-415.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/FN5091002-907.webp",
+    "bytes": 43470,
+    "sha256": "171531d056c5304fa014bebfff0fce30191a496a7ab9cdcbee0361e98d365d13",
+    "source": "https://team.goodsports.ru/img/catalog/FN5091002-907.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/FN6031004-104.webp",
+    "bytes": 67162,
+    "sha256": "e55c9a29e80c4162a6331959f198ce0d5169712c9d0f5a2f36831716b509202c",
+    "source": "https://team.goodsports.ru/img/catalog/FN6031004-104.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/FN6041002-934.webp",
+    "bytes": 61020,
+    "sha256": "1a1fbcaa54c399ffbaa9720281e17eea75ed8db674b5e1135e487f7269f92aec",
+    "source": "https://team.goodsports.ru/img/catalog/FN6041002-934.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/K15S959-000.webp",
+    "bytes": 18462,
+    "sha256": "2891b5b4595220654c114a69b3ae06ee0686ee8dacc79076707d35345450200d",
+    "source": "https://team.goodsports.ru/img/catalog/K15S959-000.webp"
+  },
+  {
+    "path": "reference-site/img/catalog/YX80125042-103.webp",
+    "bytes": 17936,
+    "sha256": "ee7034b7bba2da204d3214bf197da9e66c14723cd3c5f1975a1d47e7a1d11794",
+    "source": "https://team.goodsports.ru/img/catalog/YX80125042-103.webp"
+  },
+  {
+    "path": "reference-site/img/docs/fn-full.jpg",
+    "bytes": 401346,
+    "sha256": "291cc0aa7a737f48db43627407a4484d61a554cea1d5638fced656efb96eaf40",
+    "source": "https://team.goodsports.ru/img/docs/fn-full.jpg"
+  },
+  {
+    "path": "reference-site/img/docs/fn.jpg",
+    "bytes": 62524,
+    "sha256": "b028914bb516a47709230c87f62d080e1756a22a3dbc6f5171368df1be561d7e",
+    "source": "https://team.goodsports.ru/img/docs/fn.jpg"
+  },
+  {
+    "path": "reference-site/img/docs/kelme-full.jpg",
+    "bytes": 147338,
+    "sha256": "1f0415ad55693d1c668517acb2320dd73aad8ff14d065cd40c5dc0b53b830b73",
+    "source": "https://team.goodsports.ru/img/docs/kelme-full.jpg"
+  },
+  {
+    "path": "reference-site/img/docs/kelme.jpg",
+    "bytes": 33302,
+    "sha256": "495f39d8b5faf92262e4a73516ff46321f46f6c57fccb8de36de7195d156abd2",
+    "source": "https://team.goodsports.ru/img/docs/kelme.jpg"
+  },
+  {
+    "path": "reference-site/img/gallery/betcity.jpg",
+    "bytes": 231183,
+    "sha256": "37d217cd9704a5e2bb218b6e8b824ad2c6a7548ed8ec8f9d59821c932c5d3f0e",
+    "source": "https://team.goodsports.ru/img/gallery/betcity.jpg"
+  },
+  {
+    "path": "reference-site/img/gallery/champions.jpg",
+    "bytes": 204931,
+    "sha256": "00321d07a9816735cab272e14712a1a543cfe4a886d4383c7471169a10b483da",
+    "source": "https://team.goodsports.ru/img/gallery/champions.jpg"
+  },
+  {
+    "path": "reference-site/img/gallery/futsal.jpg",
+    "bytes": 166739,
+    "sha256": "994313649d6402e28b5e5c4abd4f3ef8b4c9e0a819bbdc8605ae9451d98ad3da",
+    "source": "https://team.goodsports.ru/img/gallery/futsal.jpg"
+  },
+  {
+    "path": "reference-site/img/gallery/kids.jpg",
+    "bytes": 279721,
+    "sha256": "693b27dad26d2ca0b70dd9594d989fa643c74fb9758c8e0e4f2b6d0ff231ae33",
+    "source": "https://team.goodsports.ru/img/gallery/kids.jpg"
+  },
+  {
+    "path": "reference-site/img/gallery/volley.jpg",
+    "bytes": 179922,
+    "sha256": "b753f42235893904bf9a8cc5d873b16b67330f0732660d8a8b85a9306410ddf5",
+    "source": "https://team.goodsports.ru/img/gallery/volley.jpg"
+  },
+  {
+    "path": "reference-site/img/hero-desktop.jpg",
+    "bytes": 193426,
+    "sha256": "f335c7dfdaf036990f797861c96ee5a4e308f19ef2199e86e2135a531ea38266",
+    "source": "https://team.goodsports.ru/img/hero-desktop.jpg"
+  },
+  {
+    "path": "reference-site/img/hero-desktop.webp",
+    "bytes": 133810,
+    "sha256": "86017d936a24c3ed57f88a2f09767ecc83a3c1a3546d3b8db10654ccebcf4495",
+    "source": "https://team.goodsports.ru/img/hero-desktop.webp"
+  },
+  {
+    "path": "reference-site/img/hero-mobile.webp",
+    "bytes": 66104,
+    "sha256": "542aabafd75479aaae8de32ccefa7284c86ce90dad9b67560cf5fa84e5555059",
+    "source": "https://team.goodsports.ru/img/hero-mobile.webp"
+  },
+  {
+    "path": "reference-site/img/logo-mark.svg",
+    "bytes": 1043,
+    "sha256": "2472672a128336bbb194241aad3f21e085f7f8c518610117dd145aed20441a8b",
+    "source": "https://team.goodsports.ru/ (inline SVG logo extracted)"
+  },
+  {
+    "path": "reference-site/img/logo.svg",
+    "bytes": 3466,
+    "sha256": "d5a5240d9aedec021858847687063a1ce8263d1ef381edb8b4293e06a25706c6",
+    "source": "https://team.goodsports.ru/ (inline SVG logo extracted)"
+  },
+  {
+    "path": "reference-site/img/review-dinamo.png",
+    "bytes": 17136,
+    "sha256": "ad1767bdb2696949c484d3bbdbc6958c8471bbfc8b08a8788160ae36972c83f3",
+    "source": "https://team.goodsports.ru/img/review-dinamo.png"
+  },
+  {
+    "path": "reference-site/img/review-mirazh.png",
+    "bytes": 37701,
+    "sha256": "21f4abc8d7dad92ed98e01590baf01f16310cd2e988010c8914d672f4ca1a251",
+    "source": "https://team.goodsports.ru/img/review-mirazh.png"
+  },
+  {
+    "path": "reference-site/img/review-neftekhimik.png",
+    "bytes": 38696,
+    "sha256": "56387b3ac76e1f6c57f8b948afdb08dd3878f29234a0e7a96b2abd075081eebb",
+    "source": "https://team.goodsports.ru/img/review-neftekhimik.png"
+  },
+  {
+    "path": "reference-site/img/review-ssh5.png",
+    "bytes": 24792,
+    "sha256": "c68d481590c03d011d637c8c80b2188c39267762edbc7d9246de81ec20bdd913",
+    "source": "https://team.goodsports.ru/img/review-ssh5.png"
+  },
+  {
+    "path": "reference-site/img/review-viktoria.png",
+    "bytes": 19861,
+    "sha256": "1cd8e265c2a400339b653f61057f1cc45c12e1b5d03145d1b48d2cf60b9deeea",
+    "source": "https://team.goodsports.ru/img/review-viktoria.png"
+  },
+  {
+    "path": "reference-site/img/reviews/mirazh.jpg",
+    "bytes": 317188,
+    "sha256": "03db3c5716b4fe7d210034ff5e1555879df1f298e4369d5c32e8496adebc1b49",
+    "source": "https://team.goodsports.ru/img/reviews/mirazh.jpg"
+  },
+  {
+    "path": "reference-site/img/reviews/neftekhimik.jpg",
+    "bytes": 343575,
+    "sha256": "bcd3192e7291a2cf9b190f9d93373b6d5453be1a13abf2462ccd251b256a47f1",
+    "source": "https://team.goodsports.ru/img/reviews/neftekhimik.jpg"
+  },
+  {
+    "path": "reference-site/img/reviews/ssh5.jpg",
+    "bytes": 307829,
+    "sha256": "cc39bbf793a166541a6cf574551450782a15a9e97f4884808a73f6aba212648f",
+    "source": "https://team.goodsports.ru/img/reviews/ssh5.jpg"
+  },
+  {
+    "path": "reference-site/index.html",
+    "bytes": 90095,
+    "sha256": "dbe1a614c25c1f4793b27154d37518f0e64cd5c2c77c99bf2f8fd2497a55d2a6",
+    "source": "https://team.goodsports.ru/ (HTML snapshot; tracking and CRM embeds removed, offline form guard added)"
+  },
+  {
+    "path": "reference-site/js/docs.js",
+    "bytes": 2405,
+    "sha256": "49df87d87a2cdd57b9795211ae29c2098f6bc353e872985dd36e0b0014694d2f",
+    "source": "https://team.goodsports.ru/js/docs.js"
+  },
+  {
+    "path": "reference-site/js/form-scroll.js",
+    "bytes": 834,
+    "sha256": "01cd0db2f9c467a4625e709ed9fda0977a75ba34e2e60eb64e01f68fb23010ee",
+    "source": "https://team.goodsports.ru/js/form-scroll.js"
+  },
+  {
+    "path": "reference-site/js/main.js",
+    "bytes": 25266,
+    "sha256": "e892acebd2ea998236613f1934a63124cc22ac5cc62ebe3f49a51a8221a5c616",
+    "source": "https://team.goodsports.ru/js/main.js"
+  },
+  {
+    "path": "reference-site/js/offline-guard.js",
+    "bytes": 362,
+    "sha256": "eb604901d993b02939f9eab4b9d375bd98449822136a5a5e5117fa1d8c6db8ef",
+    "source": "authored for handoff: blocks offline reference form submission; not a downloaded production asset"
+  },
+  {
+    "path": "reference-site/js/reviews.js",
+    "bytes": 1752,
+    "sha256": "70a3ab80f534c2b482cc7320e73e1ca3c16665bd2c4b5f5bebaf2afc295c56ca",
+    "source": "https://team.goodsports.ru/js/reviews.js"
+  }
+]
